@@ -7,7 +7,7 @@
 
 // ========== CONFIGURAÇÃO ==========
 // URL do Web App fornecida pelo usuário
-const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzOY7tqUXyPhXIo7zWkevIVpX-JZEFdBLlf2-sYl_PFZIIpW6DDunTGadmAUXtZJ64A6g/exec';
+const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyngz-OETXquPL8PerUHCijqvt3KpUSlYP9Py5VD-LkxnQA2KmtEwa2qFRf8JrTAHqPSQ/exec';
 const STORES = [11, 85, 115, 135, 165, 182, 183, 187, 190, 194, 195, 198, 213, 214, 223, 225, 250, 255, 270, 294, 295, 305, 309, 310, 325, 335, 375, 384, 385, 405, 420, 479, 480, 492, 561, 825, 897, 905];
 
 // ========== ESTADO GLOBAL ==========
